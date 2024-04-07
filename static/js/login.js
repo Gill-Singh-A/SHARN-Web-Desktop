@@ -28,7 +28,7 @@ const checkPassword = () => {
         p[0] === 57116 &&
         p[18] === 57121 &&
         p[4] === 57102) {
-      window.location.replace(v + ".html");
+      window.location.replace(v);
     } else {
       alert("Wrong password!");
     }
