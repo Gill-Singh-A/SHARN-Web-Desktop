@@ -26,7 +26,11 @@ def daaku():
 def getFileList():
     files = os.listdir("static/files")
     return files
-
+@app.route("/getFileContent", methods=["POST"])
+def getFileContent():
+    file = request.json["file"]
+    content = os.system(f"cat static/files/{file}")
+    return content
 
 if __name__ == "__main__":
     app.run(host=host, port=port, debug=True)
