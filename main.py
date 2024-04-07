@@ -15,6 +15,9 @@ def robots():
 @app.route("/remote_file_access_login", methods=["GET"])
 def login():
     return render_template("login.html")
+@app.route("/recovery")
+def recovery():
+    return render_template("recovery.html")
 
 if __name__ == "__main__":
     app.run(host=host, port=port, debug=True)
