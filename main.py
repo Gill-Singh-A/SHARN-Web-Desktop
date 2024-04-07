@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+import os
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
@@ -15,9 +16,17 @@ def robots():
 @app.route("/remote_file_access_login", methods=["GET"])
 def login():
     return render_template("login.html")
-@app.route("/recovery")
+@app.route("/recovery", methods=["GET"])
 def recovery():
     return render_template("recovery.html")
+@app.route("/main_daku_ek_number_da_han", methods=["GET"])
+def daaku():
+    return ''
+@app.route("/getFileList", methods=["GET"])
+def getFileList():
+    files = os.listdir("static/files")
+    return files
+
 
 if __name__ == "__main__":
     app.run(host=host, port=port, debug=True)
