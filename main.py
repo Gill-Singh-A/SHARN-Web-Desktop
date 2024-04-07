@@ -9,6 +9,9 @@ port = 7020
 @app.route("/", methods=["GET"])
 def index():
     return render_template("index.html")
+@app.route("/robots.txt", methods=["GET"])
+def robots():
+    return render_template("robots.txt")
 
 if __name__ == "__main__":
     app.run(host=host, port=port, debug=True)
