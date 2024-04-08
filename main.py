@@ -21,15 +21,15 @@ def recovery():
     return render_template("recovery.html")
 @app.route("/main_daku_ek_number_da_han", methods=["GET"])
 def daaku():
-    return ''
+    return render_template("main.html")
 @app.route("/getFileList", methods=["GET"])
 def getFileList():
     files = os.listdir("static/files")
     return files
-@app.route("/getFileContent", methods=["POST"])
+@app.route("/getFileContent", methods=["GET"])
 def getFileContent():
-    file = request.json["file"]
-    content = os.system(f"cat static/files/{file}")
+    file = request.args.get("file")
+    content = os.popen(f"cat static/files/{file}").read()
     return content
 
 if __name__ == "__main__":
