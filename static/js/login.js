@@ -1,4 +1,9 @@
 const checkPassword = () => {
+    const u = document.getElementById("user").value;
+    if( u != "kaptaan" ) {
+      alert("Wrong user!");
+      return;
+    }
     const v = document.getElementById("password").value;
     const p = Array.from(v).map(a => 0xdeaf + a.charCodeAt(0));
   
