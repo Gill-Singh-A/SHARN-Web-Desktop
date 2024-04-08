@@ -1,0 +1,10 @@
+[:] [2024-04-08 05:52:41] Name:	Aman Singh Gill
+[:] [2024-04-08 05:52:41] Nickname:	Gill-Singh-A
+[:] [2024-04-08 05:52:41] User has a PRO Account
+[+] [2024-04-08 05:52:41] Links
+[:] [2024-04-08 05:52:41] 	Hackerrank:	https://www.hackerrank.com/Gill_Singh_A
+[:] [2024-04-08 05:52:41] Status = Bandit
+[:] [2024-04-08 05:52:41] Bio: The sha3_512 hash of this sentence starts with f,f,e and 8
+[+] [2024-04-08 05:52:42] Achievements
+[:] [2024-04-08 05:52:42] 	Pull Shark: 1
+[:] [2024-04-08 05:52:42] 	Quickdraw: 1

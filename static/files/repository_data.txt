@@ -1,0 +1,1135 @@
+[:] [2024-04-08 05:52:45] Fetching Repository Data...
+
+[ ] [2024-04-08 05:52:49] Repository     = pclub-website
+[:] [2024-04-08 05:52:49] Link           = https://github.com/Gill-Singh-A/pclub-website
+[:] [2024-04-08 05:52:49] About          = Programming Club IIT Kanpur Website
+[:] [2024-04-08 05:52:49] Default Branch = None
+[:] [2024-04-08 05:52:49] Commits        = 0
+[:] [2024-04-08 05:52:49] Stars          = 0
+[:] [2024-04-08 05:52:49] Watchers       = 0
+[:] [2024-04-08 05:52:49] Forks          = 0
+
+[ ] [2024-04-08 05:52:52] Repository     = Crawler
+[:] [2024-04-08 05:52:52] Link           = https://github.com/Gill-Singh-A/Crawler
+[:] [2024-04-08 05:52:52] About          = A Program that crawls on web starting from a given web page and looking for keywords through other internal links that are found
+[:] [2024-04-08 05:52:52] Default Branch = None
+[:] [2024-04-08 05:52:52] Commits        = 0
+[:] [2024-04-08 05:52:52] Stars          = 2
+[:] [2024-04-08 05:52:52] Watchers       = 1
+[:] [2024-04-08 05:52:52] Forks          = 2
+[+] [2024-04-08 05:52:52] Languages
+[:] [2024-04-08 05:52:52] 	* 100.0% => Python
+[+] [2024-04-08 05:52:52] Topics
+[:] [2024-04-08 05:52:52] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:52:52] 	* crawler (https://github.com/topics/crawler)
+[:] [2024-04-08 05:52:52] 	* scraper (https://github.com/topics/scraper)
+[:] [2024-04-08 05:52:52] 	* osint (https://github.com/topics/osint)
+[:] [2024-04-08 05:52:52] 	* multithreading (https://github.com/topics/multithreading)
+[:] [2024-04-08 05:52:52] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:52:52] 	* requests (https://github.com/topics/requests)
+
+[ ] [2024-04-08 05:52:55] Repository     = SYN-Flood-Attack
+[:] [2024-04-08 05:52:55] Link           = https://github.com/Gill-Singh-A/SYN-Flood-Attack
+[:] [2024-04-08 05:52:55] About          = A Python Program that implements a TCP SYN Flood Attack.
+[:] [2024-04-08 05:52:55] Default Branch = None
+[:] [2024-04-08 05:52:55] Commits        = 0
+[:] [2024-04-08 05:52:55] Stars          = 0
+[:] [2024-04-08 05:52:55] Watchers       = 1
+[:] [2024-04-08 05:52:55] Forks          = 0
+[+] [2024-04-08 05:52:55] Languages
+[:] [2024-04-08 05:52:55] 	* 100.0% => Python
+[+] [2024-04-08 05:52:55] Topics
+[:] [2024-04-08 05:52:55] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:52:55] 	* networking (https://github.com/topics/networking)
+[:] [2024-04-08 05:52:55] 	* tcp (https://github.com/topics/tcp)
+[:] [2024-04-08 05:52:55] 	* attack (https://github.com/topics/attack)
+[:] [2024-04-08 05:52:55] 	* network (https://github.com/topics/network)
+[:] [2024-04-08 05:52:55] 	* scapy (https://github.com/topics/scapy)
+[:] [2024-04-08 05:52:55] 	* network-protocols (https://github.com/topics/network-protocols)
+[:] [2024-04-08 05:52:55] 	* syn (https://github.com/topics/syn)
+[:] [2024-04-08 05:52:55] 	* syn-flood (https://github.com/topics/syn-flood)
+[:] [2024-04-08 05:52:55] 	* syn-flood-attack (https://github.com/topics/syn-flood-attack)
+[:] [2024-04-08 05:52:55] 	* network-attack (https://github.com/topics/network-attack)
+
+[ ] [2024-04-08 05:52:58] Repository     = RTSP-Brute-Force
+[:] [2024-04-08 05:52:58] Link           = https://github.com/Gill-Singh-A/RTSP-Brute-Force
+[:] [2024-04-08 05:52:58] About          = A Python Program that uses OpenCV module to brute force RTSP (Real Time Streaming Protocol) Service used by IoT (Internet of Things) devices like CCTVs (Closed-circuit television), etc
+[:] [2024-04-08 05:52:58] Default Branch = None
+[:] [2024-04-08 05:52:58] Commits        = 0
+[:] [2024-04-08 05:52:58] Stars          = 1
+[:] [2024-04-08 05:52:58] Watchers       = 2
+[:] [2024-04-08 05:52:58] Forks          = 1
+[+] [2024-04-08 05:52:58] Languages
+[:] [2024-04-08 05:52:58] 	* 100.0% => Python
+[+] [2024-04-08 05:52:58] Topics
+[:] [2024-04-08 05:52:58] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:52:58] 	* iot (https://github.com/topics/iot)
+[:] [2024-04-08 05:52:58] 	* rtsp (https://github.com/topics/rtsp)
+[:] [2024-04-08 05:52:58] 	* cctv (https://github.com/topics/cctv)
+[:] [2024-04-08 05:52:58] 	* multithreading (https://github.com/topics/multithreading)
+[:] [2024-04-08 05:52:58] 	* bruteforce (https://github.com/topics/bruteforce)
+[:] [2024-04-08 05:52:58] 	* python3 (https://github.com/topics/python3)
+
+[ ] [2024-04-08 05:53:01] Repository     = Wordlist-Scrapper
+[:] [2024-04-08 05:53:01] Link           = https://github.com/Gill-Singh-A/Wordlist-Scrapper
+[:] [2024-04-08 05:53:01] About          = Python Program that scraps website for Wordlists
+[:] [2024-04-08 05:53:01] Default Branch = None
+[:] [2024-04-08 05:53:01] Commits        = 0
+[:] [2024-04-08 05:53:01] Stars          = 0
+[:] [2024-04-08 05:53:01] Watchers       = 1
+[:] [2024-04-08 05:53:01] Forks          = 0
+[+] [2024-04-08 05:53:01] Languages
+[:] [2024-04-08 05:53:01] 	* 100.0% => Python
+[+] [2024-04-08 05:53:01] Topics
+[:] [2024-04-08 05:53:01] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:01] 	* multiprocessing (https://github.com/topics/multiprocessing)
+[:] [2024-04-08 05:53:01] 	* multithreading (https://github.com/topics/multithreading)
+[:] [2024-04-08 05:53:01] 	* wordlist (https://github.com/topics/wordlist)
+[:] [2024-04-08 05:53:01] 	* requests (https://github.com/topics/requests)
+[:] [2024-04-08 05:53:01] 	* beautifulsoup4 (https://github.com/topics/beautifulsoup4)
+
+[ ] [2024-04-08 05:53:03] Repository     = Dictionary-Attack
+[:] [2024-04-08 05:53:03] Link           = https://github.com/Gill-Singh-A/Dictionary-Attack
+[:] [2024-04-08 05:53:03] About          = A Python program that loads words from a file, caculates their respective hashes according to the Hash Algorithm Provided and then compares with the feeded Hashes to implement a Dictionary Attack, hence attempting to crack the given hashes
+[:] [2024-04-08 05:53:03] Default Branch = None
+[:] [2024-04-08 05:53:03] Commits        = 0
+[:] [2024-04-08 05:53:03] Stars          = 0
+[:] [2024-04-08 05:53:03] Watchers       = 1
+[:] [2024-04-08 05:53:03] Forks          = 0
+[+] [2024-04-08 05:53:03] Languages
+[:] [2024-04-08 05:53:03] 	* 100.0% => Python
+[+] [2024-04-08 05:53:03] Topics
+[:] [2024-04-08 05:53:03] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:03] 	* hashing (https://github.com/topics/hashing)
+[:] [2024-04-08 05:53:03] 	* encryption (https://github.com/topics/encryption)
+[:] [2024-04-08 05:53:03] 	* brute-force (https://github.com/topics/brute-force)
+[:] [2024-04-08 05:53:03] 	* dictionary-attack (https://github.com/topics/dictionary-attack)
+
+[ ] [2024-04-08 05:53:06] Repository     = Port-Scanner
+[:] [2024-04-08 05:53:06] Link           = https://github.com/Gill-Singh-A/Port-Scanner
+[:] [2024-04-08 05:53:06] About          = Scans for Open ports in the given IPv4 Targets using TCP Protocol
+[:] [2024-04-08 05:53:06] Default Branch = None
+[:] [2024-04-08 05:53:06] Commits        = 0
+[:] [2024-04-08 05:53:06] Stars          = 0
+[:] [2024-04-08 05:53:06] Watchers       = 1
+[:] [2024-04-08 05:53:06] Forks          = 0
+[+] [2024-04-08 05:53:06] Languages
+[:] [2024-04-08 05:53:06] 	* 100.0% => Python
+[+] [2024-04-08 05:53:06] Topics
+[:] [2024-04-08 05:53:06] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:06] 	* socket (https://github.com/topics/socket)
+[:] [2024-04-08 05:53:06] 	* tcp (https://github.com/topics/tcp)
+[:] [2024-04-08 05:53:06] 	* network (https://github.com/topics/network)
+[:] [2024-04-08 05:53:06] 	* scanner (https://github.com/topics/scanner)
+[:] [2024-04-08 05:53:06] 	* port-scanner (https://github.com/topics/port-scanner)
+[:] [2024-04-08 05:53:06] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:53:06] 	* ports (https://github.com/topics/ports)
+
+[ ] [2024-04-08 05:53:09] Repository     = puppylove2.0_frontend
+[:] [2024-04-08 05:53:09] Link           = https://github.com/Gill-Singh-A/puppylove2.0_frontend
+[:] [2024-04-08 05:53:09] Default Branch = None
+[:] [2024-04-08 05:53:09] Commits        = 0
+[:] [2024-04-08 05:53:09] Stars          = 0
+[:] [2024-04-08 05:53:09] Watchers       = 0
+[:] [2024-04-08 05:53:09] Forks          = 0
+
+[ ] [2024-04-08 05:53:11] Repository     = Video-Feed-Synchronization
+[:] [2024-04-08 05:53:11] Link           = https://github.com/Gill-Singh-A/Video-Feed-Synchronization
+[:] [2024-04-08 05:53:11] About          = Simple Python Programs that Synchronizes video frames of different FPS and recording time by mapping frames with respect to the time time they were captured
+[:] [2024-04-08 05:53:11] Default Branch = None
+[:] [2024-04-08 05:53:11] Commits        = 0
+[:] [2024-04-08 05:53:11] Stars          = 0
+[:] [2024-04-08 05:53:11] Watchers       = 2
+[:] [2024-04-08 05:53:11] Forks          = 0
+[+] [2024-04-08 05:53:11] Languages
+[:] [2024-04-08 05:53:11] 	* 100.0% => Python
+[+] [2024-04-08 05:53:11] Topics
+[:] [2024-04-08 05:53:11] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:11] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:53:11] 	* time (https://github.com/topics/time)
+[:] [2024-04-08 05:53:11] 	* synchronization (https://github.com/topics/synchronization)
+[:] [2024-04-08 05:53:11] 	* image-processing (https://github.com/topics/image-processing)
+[:] [2024-04-08 05:53:11] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:53:11] 	* opencv-python (https://github.com/topics/opencv-python)
+
+[ ] [2024-04-08 05:53:14] Repository     = ARP-Spoofer
+[:] [2024-04-08 05:53:14] Link           = https://github.com/Gill-Singh-A/ARP-Spoofer
+[:] [2024-04-08 05:53:14] About          = A Python Program that does ARP Spoofing on the given targets, implementing a Man-in-the-Middle Attack.
+[:] [2024-04-08 05:53:14] Default Branch = None
+[:] [2024-04-08 05:53:14] Commits        = 0
+[:] [2024-04-08 05:53:14] Stars          = 0
+[:] [2024-04-08 05:53:14] Watchers       = 1
+[:] [2024-04-08 05:53:14] Forks          = 0
+[+] [2024-04-08 05:53:14] Languages
+[:] [2024-04-08 05:53:14] 	* 100.0% => Python
+[+] [2024-04-08 05:53:14] Topics
+[:] [2024-04-08 05:53:14] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:14] 	* networking (https://github.com/topics/networking)
+[:] [2024-04-08 05:53:14] 	* attack (https://github.com/topics/attack)
+[:] [2024-04-08 05:53:14] 	* lan (https://github.com/topics/lan)
+[:] [2024-04-08 05:53:14] 	* network (https://github.com/topics/network)
+[:] [2024-04-08 05:53:14] 	* arp (https://github.com/topics/arp)
+[:] [2024-04-08 05:53:14] 	* wireless (https://github.com/topics/wireless)
+[:] [2024-04-08 05:53:14] 	* arp-spoofing (https://github.com/topics/arp-spoofing)
+
+[ ] [2024-04-08 05:53:17] Repository     = puppylove2.0_backend
+[:] [2024-04-08 05:53:17] Link           = https://github.com/Gill-Singh-A/puppylove2.0_backend
+[:] [2024-04-08 05:53:17] Default Branch = None
+[:] [2024-04-08 05:53:17] Commits        = 0
+[:] [2024-04-08 05:53:17] Stars          = 0
+[:] [2024-04-08 05:53:17] Watchers       = 0
+[:] [2024-04-08 05:53:17] Forks          = 0
+
+[ ] [2024-04-08 05:53:19] Repository     = LAN-Camera-Streaming
+[:] [2024-04-08 05:53:19] Link           = https://github.com/Gill-Singh-A/LAN-Camera-Streaming
+[:] [2024-04-08 05:53:19] About          = A simple Server-Client model that uses TCP Connection for streaming Live Grayscale Video from one device's camera to another device's screen on the same LAN (Local Area Network)
+[:] [2024-04-08 05:53:19] Default Branch = None
+[:] [2024-04-08 05:53:19] Commits        = 0
+[:] [2024-04-08 05:53:19] Stars          = 0
+[:] [2024-04-08 05:53:19] Watchers       = 2
+[:] [2024-04-08 05:53:19] Forks          = 0
+[+] [2024-04-08 05:53:19] Languages
+[:] [2024-04-08 05:53:19] 	* 100.0% => Python
+[+] [2024-04-08 05:53:19] Topics
+[:] [2024-04-08 05:53:19] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:19] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:53:19] 	* networking (https://github.com/topics/networking)
+[:] [2024-04-08 05:53:19] 	* camera (https://github.com/topics/camera)
+[:] [2024-04-08 05:53:19] 	* tcp (https://github.com/topics/tcp)
+[:] [2024-04-08 05:53:19] 	* sockets (https://github.com/topics/sockets)
+[:] [2024-04-08 05:53:19] 	* lan (https://github.com/topics/lan)
+[:] [2024-04-08 05:53:19] 	* network (https://github.com/topics/network)
+[:] [2024-04-08 05:53:19] 	* deserialization (https://github.com/topics/deserialization)
+[:] [2024-04-08 05:53:19] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:53:19] 	* pickle (https://github.com/topics/pickle)
+[:] [2024-04-08 05:53:19] 	* serialziation (https://github.com/topics/serialziation)
+
+[ ] [2024-04-08 05:53:22] Repository     = Password-Checker
+[:] [2024-04-08 05:53:22] Link           = https://github.com/Gill-Singh-A/Password-Checker
+[:] [2024-04-08 05:53:22] About          = Checks the number of time a given password has been breached through API of pwnedpasswords
+[:] [2024-04-08 05:53:22] Default Branch = None
+[:] [2024-04-08 05:53:22] Commits        = 0
+[:] [2024-04-08 05:53:22] Stars          = 0
+[:] [2024-04-08 05:53:22] Watchers       = 1
+[:] [2024-04-08 05:53:22] Forks          = 0
+[+] [2024-04-08 05:53:22] Languages
+[:] [2024-04-08 05:53:22] 	* 100.0% => Python
+[+] [2024-04-08 05:53:22] Topics
+[:] [2024-04-08 05:53:22] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:22] 	* security (https://github.com/topics/security)
+[:] [2024-04-08 05:53:22] 	* command-line (https://github.com/topics/command-line)
+[:] [2024-04-08 05:53:22] 	* password (https://github.com/topics/password)
+[:] [2024-04-08 05:53:22] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:53:22] 	* command-line-tool (https://github.com/topics/command-line-tool)
+[:] [2024-04-08 05:53:22] 	* password-breach-checker (https://github.com/topics/password-breach-checker)
+
+[ ] [2024-04-08 05:53:25] Repository     = Exploit-DB-Scrapper
+[:] [2024-04-08 05:53:25] Link           = https://github.com/Gill-Singh-A/Exploit-DB-Scrapper
+[:] [2024-04-08 05:53:25] About          = A Python Program that scraps data of Exploit-DB
+[:] [2024-04-08 05:53:25] Default Branch = None
+[:] [2024-04-08 05:53:25] Commits        = 0
+[:] [2024-04-08 05:53:25] Stars          = 0
+[:] [2024-04-08 05:53:25] Watchers       = 1
+[:] [2024-04-08 05:53:25] Forks          = 0
+[+] [2024-04-08 05:53:25] Languages
+[:] [2024-04-08 05:53:25] 	* 100.0% => Python
+[+] [2024-04-08 05:53:25] Topics
+[:] [2024-04-08 05:53:25] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:25] 	* json (https://github.com/topics/json)
+[:] [2024-04-08 05:53:25] 	* requests (https://github.com/topics/requests)
+[:] [2024-04-08 05:53:25] 	* scrapping (https://github.com/topics/scrapping)
+[:] [2024-04-08 05:53:25] 	* exploit-db (https://github.com/topics/exploit-db)
+
+[ ] [2024-04-08 05:53:27] Repository     = Hash-Start-Calculator
+[:] [2024-04-08 05:53:27] Link           = https://github.com/Gill-Singh-A/Hash-Start-Calculator
+[:] [2024-04-08 05:53:27] About          = A program that tells about the starting characters in a string specifying those starting characters
+[:] [2024-04-08 05:53:27] Default Branch = None
+[:] [2024-04-08 05:53:27] Commits        = 0
+[:] [2024-04-08 05:53:27] Stars          = 0
+[:] [2024-04-08 05:53:27] Watchers       = 1
+[:] [2024-04-08 05:53:27] Forks          = 0
+[+] [2024-04-08 05:53:27] Languages
+[:] [2024-04-08 05:53:27] 	* 100.0% => Python
+[+] [2024-04-08 05:53:27] Topics
+[:] [2024-04-08 05:53:27] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:27] 	* hashing (https://github.com/topics/hashing)
+[:] [2024-04-08 05:53:27] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:53:27] 	* hash (https://github.com/topics/hash)
+[:] [2024-04-08 05:53:27] 	* md5 (https://github.com/topics/md5)
+[:] [2024-04-08 05:53:27] 	* sha (https://github.com/topics/sha)
+[:] [2024-04-08 05:53:27] 	* sha256 (https://github.com/topics/sha256)
+[:] [2024-04-08 05:53:27] 	* hashing-algorithm (https://github.com/topics/hashing-algorithm)
+[:] [2024-04-08 05:53:27] 	* sha3 (https://github.com/topics/sha3)
+[:] [2024-04-08 05:53:27] 	* sha512 (https://github.com/topics/sha512)
+
+[ ] [2024-04-08 05:53:30] Repository     = RTC-Peer-Connection-Web-API-Location-Tracker
+[:] [2024-04-08 05:53:30] Link           = https://github.com/Gill-Singh-A/RTC-Peer-Connection-Web-API-Location-Tracker
+[:] [2024-04-08 05:53:30] About          = A JavaScript Program that gets the IP Address of the connected device using RTCPeerConnection Web API and getting its Geological Information using IPGeolocation's API
+[:] [2024-04-08 05:53:30] Default Branch = None
+[:] [2024-04-08 05:53:30] Commits        = 0
+[:] [2024-04-08 05:53:30] Stars          = 0
+[:] [2024-04-08 05:53:30] Watchers       = 1
+[:] [2024-04-08 05:53:30] Forks          = 0
+[+] [2024-04-08 05:53:30] Languages
+[:] [2024-04-08 05:53:30] 	* 100.0% => JavaScript
+[+] [2024-04-08 05:53:30] Topics
+[:] [2024-04-08 05:53:30] 	* javascript (https://github.com/topics/javascript)
+[:] [2024-04-08 05:53:30] 	* api (https://github.com/topics/api)
+[:] [2024-04-08 05:53:30] 	* osint (https://github.com/topics/osint)
+[:] [2024-04-08 05:53:30] 	* ip (https://github.com/topics/ip)
+[:] [2024-04-08 05:53:30] 	* iplocation (https://github.com/topics/iplocation)
+[:] [2024-04-08 05:53:30] 	* rtcpeerconnection (https://github.com/topics/rtcpeerconnection)
+
+[ ] [2024-04-08 05:53:33] Repository     = Logo
+[:] [2024-04-08 05:53:33] Link           = https://github.com/Gill-Singh-A/Logo
+[:] [2024-04-08 05:53:33] About          = A Program made in Python that generates a Circular logo based on the given inputs
+[:] [2024-04-08 05:53:33] Default Branch = None
+[:] [2024-04-08 05:53:33] Commits        = 0
+[:] [2024-04-08 05:53:33] Stars          = 0
+[:] [2024-04-08 05:53:33] Watchers       = 1
+[:] [2024-04-08 05:53:33] Forks          = 0
+[+] [2024-04-08 05:53:33] Languages
+[:] [2024-04-08 05:53:33] 	* 100.0% => Python
+[+] [2024-04-08 05:53:33] Topics
+[:] [2024-04-08 05:53:33] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:33] 	* math (https://github.com/topics/math)
+[:] [2024-04-08 05:53:33] 	* geometry (https://github.com/topics/geometry)
+[:] [2024-04-08 05:53:33] 	* computer-graphics (https://github.com/topics/computer-graphics)
+[:] [2024-04-08 05:53:33] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:53:33] 	* pygame (https://github.com/topics/pygame)
+
+[ ] [2024-04-08 05:53:35] Repository     = Intel-Realsense-Ball-Detection-and-Ranging
+[:] [2024-04-08 05:53:35] Link           = https://github.com/Gill-Singh-A/Intel-Realsense-Ball-Detection-and-Ranging
+[:] [2024-04-08 05:53:35] About          = Detection and Ranging of Ball using Intel Realsense Camera and Circular Hough Detection via OpenCV
+[:] [2024-04-08 05:53:35] Default Branch = None
+[:] [2024-04-08 05:53:35] Commits        = 0
+[:] [2024-04-08 05:53:35] Stars          = 0
+[:] [2024-04-08 05:53:35] Watchers       = 1
+[:] [2024-04-08 05:53:35] Forks          = 0
+[+] [2024-04-08 05:53:35] Languages
+[:] [2024-04-08 05:53:35] 	* 75.7% => Python
+[:] [2024-04-08 05:53:35] 	* 13.9% => C++
+[:] [2024-04-08 05:53:35] 	* 10.4% => CMake
+[+] [2024-04-08 05:53:35] Topics
+[:] [2024-04-08 05:53:35] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:35] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:53:35] 	* tracking (https://github.com/topics/tracking)
+[:] [2024-04-08 05:53:35] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:53:35] 	* cpp (https://github.com/topics/cpp)
+[:] [2024-04-08 05:53:35] 	* detection (https://github.com/topics/detection)
+[:] [2024-04-08 05:53:35] 	* intel (https://github.com/topics/intel)
+[:] [2024-04-08 05:53:35] 	* ros (https://github.com/topics/ros)
+[:] [2024-04-08 05:53:35] 	* realsense (https://github.com/topics/realsense)
+[:] [2024-04-08 05:53:35] 	* depth-estimation (https://github.com/topics/depth-estimation)
+
+[ ] [2024-04-08 05:53:38] Repository     = Intel-Realsense-Recorder
+[:] [2024-04-08 05:53:38] Link           = https://github.com/Gill-Singh-A/Intel-Realsense-Recorder
+[:] [2024-04-08 05:53:38] About          = Recording Camera Feed using Intel Realsense Camera
+[:] [2024-04-08 05:53:38] Default Branch = None
+[:] [2024-04-08 05:53:38] Commits        = 0
+[:] [2024-04-08 05:53:38] Stars          = 0
+[:] [2024-04-08 05:53:38] Watchers       = 1
+[:] [2024-04-08 05:53:38] Forks          = 0
+[+] [2024-04-08 05:53:38] Languages
+[:] [2024-04-08 05:53:38] 	* 81.9% => CMake
+[:] [2024-04-08 05:53:38] 	* 18.1% => Python
+[+] [2024-04-08 05:53:38] Topics
+[:] [2024-04-08 05:53:38] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:38] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:53:38] 	* ros (https://github.com/topics/ros)
+[:] [2024-04-08 05:53:38] 	* intel-realsense (https://github.com/topics/intel-realsense)
+
+[ ] [2024-04-08 05:53:41] Repository     = Github-Analytics-Tool
+[:] [2024-04-08 05:53:41] Link           = https://github.com/Gill-Singh-A/Github-Analytics-Tool
+[:] [2024-04-08 05:53:41] About          = A Program made in Python, that uses requests module to fetches and analysis publically available information of Github account
+[:] [2024-04-08 05:53:41] Default Branch = None
+[:] [2024-04-08 05:53:41] Commits        = 0
+[:] [2024-04-08 05:53:41] Stars          = 0
+[:] [2024-04-08 05:53:41] Watchers       = 1
+[:] [2024-04-08 05:53:41] Forks          = 0
+[+] [2024-04-08 05:53:41] Languages
+[:] [2024-04-08 05:53:41] 	* 100.0% => Python
+[+] [2024-04-08 05:53:41] Topics
+[:] [2024-04-08 05:53:41] 	* github (https://github.com/topics/github)
+[:] [2024-04-08 05:53:41] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:41] 	* git (https://github.com/topics/git)
+[:] [2024-04-08 05:53:41] 	* requests (https://github.com/topics/requests)
+[:] [2024-04-08 05:53:41] 	* scrapping (https://github.com/topics/scrapping)
+[:] [2024-04-08 05:53:41] 	* html-parser (https://github.com/topics/html-parser)
+[:] [2024-04-08 05:53:41] 	* beautifulsoup (https://github.com/topics/beautifulsoup)
+[:] [2024-04-08 05:53:41] 	* scrapping-python (https://github.com/topics/scrapping-python)
+[:] [2024-04-08 05:53:41] 	* beautifulsoup4 (https://github.com/topics/beautifulsoup4)
+
+[ ] [2024-04-08 05:53:43] Repository     = Intel-Realsense-Face-Detection-and-Ranging
+[:] [2024-04-08 05:53:43] Link           = https://github.com/Gill-Singh-A/Intel-Realsense-Face-Detection-and-Ranging
+[:] [2024-04-08 05:53:43] About          = Detection and Ranging of Faces using Intel Realsense Camera and Haar Cascade Detection via OpenCV
+[:] [2024-04-08 05:53:43] Default Branch = None
+[:] [2024-04-08 05:53:43] Commits        = 0
+[:] [2024-04-08 05:53:43] Stars          = 2
+[:] [2024-04-08 05:53:43] Watchers       = 1
+[:] [2024-04-08 05:53:43] Forks          = 0
+[+] [2024-04-08 05:53:43] Languages
+[:] [2024-04-08 05:53:43] 	* 72.1% => CMake
+[:] [2024-04-08 05:53:43] 	* 27.9% => Python
+[+] [2024-04-08 05:53:43] Topics
+[:] [2024-04-08 05:53:43] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:43] 	* intel (https://github.com/topics/intel)
+[:] [2024-04-08 05:53:43] 	* ros (https://github.com/topics/ros)
+[:] [2024-04-08 05:53:43] 	* face-detection (https://github.com/topics/face-detection)
+[:] [2024-04-08 05:53:43] 	* 3d (https://github.com/topics/3d)
+[:] [2024-04-08 05:53:43] 	* haar-cascade (https://github.com/topics/haar-cascade)
+[:] [2024-04-08 05:53:43] 	* realsense (https://github.com/topics/realsense)
+[:] [2024-04-08 05:53:43] 	* pointcloud (https://github.com/topics/pointcloud)
+[:] [2024-04-08 05:53:43] 	* rospy (https://github.com/topics/rospy)
+[:] [2024-04-08 05:53:43] 	* intel-realsense (https://github.com/topics/intel-realsense)
+
+[ ] [2024-04-08 05:53:45] Repository     = ROS-Polygon-Publisher
+[:] [2024-04-08 05:53:45] Link           = https://github.com/Gill-Singh-A/ROS-Polygon-Publisher
+[:] [2024-04-08 05:53:45] About          = A ROS Node made in Python that publishes the coordinates of a polygon drawn on a Window
+[:] [2024-04-08 05:53:45] Default Branch = None
+[:] [2024-04-08 05:53:45] Commits        = 0
+[:] [2024-04-08 05:53:45] Stars          = 0
+[:] [2024-04-08 05:53:45] Watchers       = 1
+[:] [2024-04-08 05:53:45] Forks          = 1
+[+] [2024-04-08 05:53:45] Languages
+[:] [2024-04-08 05:53:45] 	* 57.4% => CMake
+[:] [2024-04-08 05:53:45] 	* 42.6% => Python
+[+] [2024-04-08 05:53:45] Topics
+[:] [2024-04-08 05:53:45] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:45] 	* pygame (https://github.com/topics/pygame)
+[:] [2024-04-08 05:53:45] 	* ros (https://github.com/topics/ros)
+[:] [2024-04-08 05:53:45] 	* polygon (https://github.com/topics/polygon)
+[:] [2024-04-08 05:53:45] 	* point (https://github.com/topics/point)
+
+[ ] [2024-04-08 05:53:48] Repository     = One-Page-Calendar
+[:] [2024-04-08 05:53:48] Link           = https://github.com/Gill-Singh-A/One-Page-Calendar
+[:] [2024-04-08 05:53:48] About          = Generates a One Page Calendar of the specified year
+[:] [2024-04-08 05:53:48] Default Branch = None
+[:] [2024-04-08 05:53:48] Commits        = 0
+[:] [2024-04-08 05:53:48] Stars          = 0
+[:] [2024-04-08 05:53:48] Watchers       = 1
+[:] [2024-04-08 05:53:48] Forks          = 0
+[+] [2024-04-08 05:53:48] Languages
+[:] [2024-04-08 05:53:48] 	* 100.0% => Python
+[+] [2024-04-08 05:53:48] Topics
+[:] [2024-04-08 05:53:48] 	* javascript (https://github.com/topics/javascript)
+[:] [2024-04-08 05:53:48] 	* css (https://github.com/topics/css)
+[:] [2024-04-08 05:53:48] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:48] 	* html (https://github.com/topics/html)
+[:] [2024-04-08 05:53:48] 	* calendar (https://github.com/topics/calendar)
+[:] [2024-04-08 05:53:48] 	* one-page-calendar (https://github.com/topics/one-page-calendar)
+
+[ ] [2024-04-08 05:53:51] Repository     = Hackerrank-Problem-Solving-Solutions
+[:] [2024-04-08 05:53:51] Link           = https://github.com/Gill-Singh-A/Hackerrank-Problem-Solving-Solutions
+[:] [2024-04-08 05:53:51] About          = Solutions to Problem Solving Problems in Hackerrank
+[:] [2024-04-08 05:53:51] Default Branch = None
+[:] [2024-04-08 05:53:51] Commits        = 0
+[:] [2024-04-08 05:53:51] Stars          = 0
+[:] [2024-04-08 05:53:51] Watchers       = 1
+[:] [2024-04-08 05:53:51] Forks          = 0
+[+] [2024-04-08 05:53:51] Languages
+[:] [2024-04-08 05:53:51] 	* 92.5% => C
+[:] [2024-04-08 05:53:51] 	* 6.9% => C++
+[:] [2024-04-08 05:53:51] 	* 0.6% => Python
+
+[ ] [2024-04-08 05:53:54] Repository     = IP-Location
+[:] [2024-04-08 05:53:54] Link           = https://github.com/Gill-Singh-A/IP-Location
+[:] [2024-04-08 05:53:54] About          = Some of the most commonly used methods that are use to find the approximate location of a device from its' IP Address
+[:] [2024-04-08 05:53:54] Default Branch = None
+[:] [2024-04-08 05:53:54] Commits        = 0
+[:] [2024-04-08 05:53:54] Stars          = 0
+[:] [2024-04-08 05:53:54] Watchers       = 1
+[:] [2024-04-08 05:53:54] Forks          = 0
+[+] [2024-04-08 05:53:54] Languages
+[:] [2024-04-08 05:53:54] 	* 100.0% => Python
+[+] [2024-04-08 05:53:54] Topics
+[:] [2024-04-08 05:53:54] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:54] 	* osint (https://github.com/topics/osint)
+[:] [2024-04-08 05:53:54] 	* maps (https://github.com/topics/maps)
+[:] [2024-04-08 05:53:54] 	* location (https://github.com/topics/location)
+[:] [2024-04-08 05:53:54] 	* geolocation (https://github.com/topics/geolocation)
+[:] [2024-04-08 05:53:54] 	* ip-address (https://github.com/topics/ip-address)
+[:] [2024-04-08 05:53:54] 	* ip (https://github.com/topics/ip)
+[:] [2024-04-08 05:53:54] 	* tkinter (https://github.com/topics/tkinter)
+[:] [2024-04-08 05:53:54] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:53:54] 	* reqeusts (https://github.com/topics/reqeusts)
+[:] [2024-04-08 05:53:54] 	* osint-tool (https://github.com/topics/osint-tool)
+
+[ ] [2024-04-08 05:53:56] Repository     = sqlmap
+[:] [2024-04-08 05:53:56] Link           = https://github.com/Gill-Singh-A/sqlmap
+[:] [2024-04-08 05:53:56] About          = Automatic SQL injection and database takeover tool
+[:] [2024-04-08 05:53:56] Default Branch = None
+[:] [2024-04-08 05:53:56] Commits        = 0
+[:] [2024-04-08 05:53:56] Stars          = 0
+[:] [2024-04-08 05:53:56] Watchers       = 0
+[:] [2024-04-08 05:53:56] Forks          = 0
+
+[ ] [2024-04-08 05:53:59] Repository     = Ball-Detection
+[:] [2024-04-08 05:53:59] Link           = https://github.com/Gill-Singh-A/Ball-Detection
+[:] [2024-04-08 05:53:59] About          = A Python Program that uses OpenCV to detect Balls in Live Video
+[:] [2024-04-08 05:53:59] Default Branch = None
+[:] [2024-04-08 05:53:59] Commits        = 0
+[:] [2024-04-08 05:53:59] Stars          = 0
+[:] [2024-04-08 05:53:59] Watchers       = 2
+[:] [2024-04-08 05:53:59] Forks          = 0
+[+] [2024-04-08 05:53:59] Languages
+[:] [2024-04-08 05:53:59] 	* 100.0% => Python
+[+] [2024-04-08 05:53:59] Topics
+[:] [2024-04-08 05:53:59] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:53:59] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:53:59] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:53:59] 	* python3 (https://github.com/topics/python3)
+
+[ ] [2024-04-08 05:54:01] Repository     = ROT13
+[:] [2024-04-08 05:54:01] Link           = https://github.com/Gill-Singh-A/ROT13
+[:] [2024-04-08 05:54:01] About          = ROT13 is an encryption algorithm that uses simple letter substitution cipher and shifts the alphabets by a value of 13
+[:] [2024-04-08 05:54:01] Default Branch = None
+[:] [2024-04-08 05:54:01] Commits        = 0
+[:] [2024-04-08 05:54:01] Stars          = 0
+[:] [2024-04-08 05:54:01] Watchers       = 1
+[:] [2024-04-08 05:54:01] Forks          = 0
+[+] [2024-04-08 05:54:01] Languages
+[:] [2024-04-08 05:54:01] 	* 100.0% => Python
+[+] [2024-04-08 05:54:01] Topics
+[:] [2024-04-08 05:54:01] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:01] 	* encoding (https://github.com/topics/encoding)
+[:] [2024-04-08 05:54:01] 	* encryption (https://github.com/topics/encryption)
+[:] [2024-04-08 05:54:01] 	* decoding (https://github.com/topics/decoding)
+[:] [2024-04-08 05:54:01] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:01] 	* rot13 (https://github.com/topics/rot13)
+[:] [2024-04-08 05:54:01] 	* decryption (https://github.com/topics/decryption)
+
+[ ] [2024-04-08 05:54:04] Repository     = DOS
+[:] [2024-04-08 05:54:04] Link           = https://github.com/Gill-Singh-A/DOS
+[:] [2024-04-08 05:54:04] About          = Sends randomly generated packets to the IP Address of the target with the designated port range through UDP Protocol through multiple threads, hence slowing down the server and causing a DOS Attack.
+[:] [2024-04-08 05:54:04] Default Branch = None
+[:] [2024-04-08 05:54:04] Commits        = 0
+[:] [2024-04-08 05:54:04] Stars          = 0
+[:] [2024-04-08 05:54:04] Watchers       = 1
+[:] [2024-04-08 05:54:04] Forks          = 0
+[+] [2024-04-08 05:54:04] Languages
+[:] [2024-04-08 05:54:04] 	* 100.0% => Python
+[+] [2024-04-08 05:54:04] Topics
+[:] [2024-04-08 05:54:04] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:04] 	* socket (https://github.com/topics/socket)
+[:] [2024-04-08 05:54:04] 	* gui (https://github.com/topics/gui)
+[:] [2024-04-08 05:54:04] 	* dos (https://github.com/topics/dos)
+[:] [2024-04-08 05:54:04] 	* attack (https://github.com/topics/attack)
+[:] [2024-04-08 05:54:04] 	* multithreading (https://github.com/topics/multithreading)
+[:] [2024-04-08 05:54:04] 	* tkinter (https://github.com/topics/tkinter)
+[:] [2024-04-08 05:54:04] 	* threading (https://github.com/topics/threading)
+[:] [2024-04-08 05:54:04] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:04] 	* dos-attack (https://github.com/topics/dos-attack)
+
+[ ] [2024-04-08 05:54:06] Repository     = video-tracker_22
+[:] [2024-04-08 05:54:06] Link           = https://github.com/Gill-Singh-A/video-tracker_22
+[:] [2024-04-08 05:54:06] Default Branch = None
+[:] [2024-04-08 05:54:06] Commits        = 0
+[:] [2024-04-08 05:54:06] Stars          = 0
+[:] [2024-04-08 05:54:06] Watchers       = 0
+[:] [2024-04-08 05:54:06] Forks          = 0
+
+[ ] [2024-04-08 05:54:10] Repository     = PDF-Merger
+[:] [2024-04-08 05:54:10] Link           = https://github.com/Gill-Singh-A/PDF-Merger
+[:] [2024-04-08 05:54:10] About          = Merges multiple PDF Files into a single PDF File
+[:] [2024-04-08 05:54:10] Default Branch = None
+[:] [2024-04-08 05:54:10] Commits        = 0
+[:] [2024-04-08 05:54:10] Stars          = 0
+[:] [2024-04-08 05:54:10] Watchers       = 1
+[:] [2024-04-08 05:54:10] Forks          = 0
+[+] [2024-04-08 05:54:10] Languages
+[:] [2024-04-08 05:54:10] 	* 100.0% => Python
+[+] [2024-04-08 05:54:10] Topics
+[:] [2024-04-08 05:54:10] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:10] 	* pdf (https://github.com/topics/pdf)
+[:] [2024-04-08 05:54:10] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:10] 	* pdf-generation (https://github.com/topics/pdf-generation)
+[:] [2024-04-08 05:54:10] 	* pdf-merger (https://github.com/topics/pdf-merger)
+
+[ ] [2024-04-08 05:54:12] Repository     = Induction_Y22
+[:] [2024-04-08 05:54:12] Link           = https://github.com/Gill-Singh-A/Induction_Y22
+[:] [2024-04-08 05:54:12] About          = Aerial Robotics Induction Y22
+[:] [2024-04-08 05:54:12] Default Branch = None
+[:] [2024-04-08 05:54:12] Commits        = 0
+[:] [2024-04-08 05:54:12] Stars          = 0
+[:] [2024-04-08 05:54:12] Watchers       = 0
+[:] [2024-04-08 05:54:12] Forks          = 0
+
+[ ] [2024-04-08 05:54:15] Repository     = MNIST-Digit-Detection
+[:] [2024-04-08 05:54:15] Link           = https://github.com/Gill-Singh-A/MNIST-Digit-Detection
+[:] [2024-04-08 05:54:15] About          = Python Programs that uses Tensorflow Keras and PyTorch to train a Neural Network for identifying Handwritten Digits (0-9) displayed on 28x28 GrayScale Image
+[:] [2024-04-08 05:54:15] Default Branch = None
+[:] [2024-04-08 05:54:15] Commits        = 0
+[:] [2024-04-08 05:54:15] Stars          = 0
+[:] [2024-04-08 05:54:15] Watchers       = 2
+[:] [2024-04-08 05:54:15] Forks          = 0
+[+] [2024-04-08 05:54:15] Languages
+[:] [2024-04-08 05:54:15] 	* 100.0% => Python
+[+] [2024-04-08 05:54:15] Topics
+[:] [2024-04-08 05:54:15] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:15] 	* machine-learning (https://github.com/topics/machine-learning)
+[:] [2024-04-08 05:54:15] 	* deep-learning (https://github.com/topics/deep-learning)
+[:] [2024-04-08 05:54:15] 	* neural-network (https://github.com/topics/neural-network)
+[:] [2024-04-08 05:54:15] 	* pytorch (https://github.com/topics/pytorch)
+[:] [2024-04-08 05:54:15] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:15] 	* convolutional-neural-networks (https://github.com/topics/convolutional-neural-networks)
+
+[ ] [2024-04-08 05:54:17] Repository     = Face-Blur
+[:] [2024-04-08 05:54:17] Link           = https://github.com/Gill-Singh-A/Face-Blur
+[:] [2024-04-08 05:54:17] About          = A Python Program that uses OpenCV's haarcascade to Detect and Blur Faces
+[:] [2024-04-08 05:54:17] Default Branch = None
+[:] [2024-04-08 05:54:17] Commits        = 0
+[:] [2024-04-08 05:54:17] Stars          = 0
+[:] [2024-04-08 05:54:17] Watchers       = 2
+[:] [2024-04-08 05:54:17] Forks          = 0
+[+] [2024-04-08 05:54:17] Languages
+[:] [2024-04-08 05:54:17] 	* 100.0% => Python
+
+[ ] [2024-04-08 05:54:20] Repository     = HTTP-Sniffer
+[:] [2024-04-08 05:54:20] Link           = https://github.com/Gill-Singh-A/HTTP-Sniffer
+[:] [2024-04-08 05:54:20] About          = A Python Program that sniffs HTTP Packets and displays useful information on the screen
+[:] [2024-04-08 05:54:20] Default Branch = None
+[:] [2024-04-08 05:54:20] Commits        = 0
+[:] [2024-04-08 05:54:20] Stars          = 0
+[:] [2024-04-08 05:54:20] Watchers       = 1
+[:] [2024-04-08 05:54:20] Forks          = 0
+[+] [2024-04-08 05:54:20] Languages
+[:] [2024-04-08 05:54:20] 	* 100.0% => Python
+[+] [2024-04-08 05:54:20] Topics
+[:] [2024-04-08 05:54:20] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:20] 	* http (https://github.com/topics/http)
+[:] [2024-04-08 05:54:20] 	* networking (https://github.com/topics/networking)
+[:] [2024-04-08 05:54:20] 	* network (https://github.com/topics/network)
+[:] [2024-04-08 05:54:20] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:20] 	* scapy (https://github.com/topics/scapy)
+[:] [2024-04-08 05:54:20] 	* sniffing (https://github.com/topics/sniffing)
+[:] [2024-04-08 05:54:20] 	* network-protocols (https://github.com/topics/network-protocols)
+[:] [2024-04-08 05:54:20] 	* http-protocol (https://github.com/topics/http-protocol)
+[:] [2024-04-08 05:54:20] 	* http-sniffing (https://github.com/topics/http-sniffing)
+
+[ ] [2024-04-08 05:54:22] Repository     = CSV-to-VCard-Converter
+[:] [2024-04-08 05:54:22] Link           = https://github.com/Gill-Singh-A/CSV-to-VCard-Converter
+[:] [2024-04-08 05:54:22] About          = A Python Program that Converts the given CSF Files to VCard(.vcf) Format
+[:] [2024-04-08 05:54:22] Default Branch = None
+[:] [2024-04-08 05:54:22] Commits        = 0
+[:] [2024-04-08 05:54:22] Stars          = 1
+[:] [2024-04-08 05:54:22] Watchers       = 1
+[:] [2024-04-08 05:54:22] Forks          = 0
+[+] [2024-04-08 05:54:22] Languages
+[:] [2024-04-08 05:54:22] 	* 100.0% => Python
+[+] [2024-04-08 05:54:22] Topics
+[:] [2024-04-08 05:54:22] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:22] 	* csv (https://github.com/topics/csv)
+[:] [2024-04-08 05:54:22] 	* vcf (https://github.com/topics/vcf)
+[:] [2024-04-08 05:54:22] 	* vcard (https://github.com/topics/vcard)
+[:] [2024-04-08 05:54:22] 	* file-management (https://github.com/topics/file-management)
+
+[ ] [2024-04-08 05:54:25] Repository     = TypeRacer-Bot
+[:] [2024-04-08 05:54:25] Link           = https://github.com/Gill-Singh-A/TypeRacer-Bot
+[:] [2024-04-08 05:54:25] About          = A Python Program that uses Selenium to simulate typing in TypeRacer.
+[:] [2024-04-08 05:54:25] Default Branch = None
+[:] [2024-04-08 05:54:25] Commits        = 0
+[:] [2024-04-08 05:54:25] Stars          = 0
+[:] [2024-04-08 05:54:25] Watchers       = 1
+[:] [2024-04-08 05:54:25] Forks          = 0
+[+] [2024-04-08 05:54:25] Languages
+[:] [2024-04-08 05:54:25] 	* 100.0% => Python
+[+] [2024-04-08 05:54:25] Topics
+[:] [2024-04-08 05:54:25] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:25] 	* bot (https://github.com/topics/bot)
+[:] [2024-04-08 05:54:25] 	* selenium (https://github.com/topics/selenium)
+[:] [2024-04-08 05:54:25] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:54:25] 	* typeracer (https://github.com/topics/typeracer)
+[:] [2024-04-08 05:54:25] 	* typeracer-bot (https://github.com/topics/typeracer-bot)
+
+[ ] [2024-04-08 05:54:28] Repository     = MAC-Address-Changer
+[:] [2024-04-08 05:54:28] Link           = https://github.com/Gill-Singh-A/MAC-Address-Changer
+[:] [2024-04-08 05:54:28] About          = Changes MAC Address of the specified interface
+[:] [2024-04-08 05:54:28] Default Branch = None
+[:] [2024-04-08 05:54:28] Commits        = 0
+[:] [2024-04-08 05:54:28] Stars          = 0
+[:] [2024-04-08 05:54:28] Watchers       = 1
+[:] [2024-04-08 05:54:28] Forks          = 0
+[+] [2024-04-08 05:54:28] Languages
+[:] [2024-04-08 05:54:28] 	* 100.0% => Python
+[+] [2024-04-08 05:54:28] Topics
+[:] [2024-04-08 05:54:28] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:28] 	* linux (https://github.com/topics/linux)
+[:] [2024-04-08 05:54:28] 	* cli (https://github.com/topics/cli)
+[:] [2024-04-08 05:54:28] 	* mac (https://github.com/topics/mac)
+[:] [2024-04-08 05:54:28] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:54:28] 	* scapy (https://github.com/topics/scapy)
+[:] [2024-04-08 05:54:28] 	* mac-address (https://github.com/topics/mac-address)
+
+[ ] [2024-04-08 05:54:30] Repository     = SnT-Hackathon-23-Robotics
+[:] [2024-04-08 05:54:30] Link           = https://github.com/Gill-Singh-A/SnT-Hackathon-23-Robotics
+[:] [2024-04-08 05:54:30] About          = Simulation of Robot/Car in Gazebo Simulator
+[:] [2024-04-08 05:54:30] Default Branch = None
+[:] [2024-04-08 05:54:30] Commits        = 0
+[:] [2024-04-08 05:54:30] Stars          = 0
+[:] [2024-04-08 05:54:30] Watchers       = 1
+[:] [2024-04-08 05:54:30] Forks          = 0
+[+] [2024-04-08 05:54:30] Languages
+[:] [2024-04-08 05:54:30] 	* 61.8% => C++
+[:] [2024-04-08 05:54:30] 	* 27.9% => Python
+[:] [2024-04-08 05:54:30] 	* 9.3% => CMake
+[:] [2024-04-08 05:54:30] 	* 1.0% => Shell
+
+[ ] [2024-04-08 05:54:33] Repository     = Sender
+[:] [2024-04-08 05:54:33] Link           = https://github.com/Gill-Singh-A/Sender
+[:] [2024-04-08 05:54:33] About          = A Program made in Python for spamming a message copied to clipboard
+[:] [2024-04-08 05:54:33] Default Branch = None
+[:] [2024-04-08 05:54:33] Commits        = 0
+[:] [2024-04-08 05:54:33] Stars          = 0
+[:] [2024-04-08 05:54:33] Watchers       = 1
+[:] [2024-04-08 05:54:33] Forks          = 0
+[+] [2024-04-08 05:54:33] Languages
+[:] [2024-04-08 05:54:33] 	* 100.0% => Python
+[+] [2024-04-08 05:54:33] Topics
+[:] [2024-04-08 05:54:33] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:33] 	* keyboard (https://github.com/topics/keyboard)
+[:] [2024-04-08 05:54:33] 	* python-3 (https://github.com/topics/python-3)
+
+[ ] [2024-04-08 05:54:35] Repository     = Keylogger
+[:] [2024-04-08 05:54:35] Link           = https://github.com/Gill-Singh-A/Keylogger
+[:] [2024-04-08 05:54:35] About          = A Keylogger made in Python that logs every pressed key with date and time into a text file created in the directory in which the program is run.
+[:] [2024-04-08 05:54:35] Default Branch = None
+[:] [2024-04-08 05:54:35] Commits        = 0
+[:] [2024-04-08 05:54:35] Stars          = 0
+[:] [2024-04-08 05:54:35] Watchers       = 1
+[:] [2024-04-08 05:54:35] Forks          = 0
+[+] [2024-04-08 05:54:35] Languages
+[:] [2024-04-08 05:54:35] 	* 100.0% => Python
+[+] [2024-04-08 05:54:35] Topics
+[:] [2024-04-08 05:54:35] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:35] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:54:35] 	* keylogger (https://github.com/topics/keylogger)
+
+[ ] [2024-04-08 05:54:38] Repository     = LAN-Screen-Streaming
+[:] [2024-04-08 05:54:38] Link           = https://github.com/Gill-Singh-A/LAN-Screen-Streaming
+[:] [2024-04-08 05:54:38] About          = A simple Server-Client model that uses TCP Connection for streaming Live Grayscale Video from one device's Screen to another device's screen on the same LAN (Local Area Network)
+[:] [2024-04-08 05:54:38] Default Branch = None
+[:] [2024-04-08 05:54:38] Commits        = 0
+[:] [2024-04-08 05:54:38] Stars          = 0
+[:] [2024-04-08 05:54:38] Watchers       = 1
+[:] [2024-04-08 05:54:38] Forks          = 0
+[+] [2024-04-08 05:54:38] Languages
+[:] [2024-04-08 05:54:38] 	* 100.0% => Python
+
+[ ] [2024-04-08 05:54:40] Repository     = Rocket-Simulator
+[:] [2024-04-08 05:54:40] Link           = https://github.com/Gill-Singh-A/Rocket-Simulator
+[:] [2024-04-08 05:54:40] About          = Simulates the Flight of a Rocket by plotting its Altitude, Vertical Velocity, Vertical Acceleration and Vertical Forces acted upon the Rocket vs Time.
+[:] [2024-04-08 05:54:40] Default Branch = None
+[:] [2024-04-08 05:54:40] Commits        = 0
+[:] [2024-04-08 05:54:40] Stars          = 1
+[:] [2024-04-08 05:54:40] Watchers       = 1
+[:] [2024-04-08 05:54:40] Forks          = 0
+[+] [2024-04-08 05:54:40] Languages
+[:] [2024-04-08 05:54:40] 	* 100.0% => Python
+[+] [2024-04-08 05:54:40] Topics
+[:] [2024-04-08 05:54:40] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:40] 	* simulator (https://github.com/topics/simulator)
+[:] [2024-04-08 05:54:40] 	* math (https://github.com/topics/math)
+[:] [2024-04-08 05:54:40] 	* simulation (https://github.com/topics/simulation)
+[:] [2024-04-08 05:54:40] 	* physics (https://github.com/topics/physics)
+[:] [2024-04-08 05:54:40] 	* numpy (https://github.com/topics/numpy)
+[:] [2024-04-08 05:54:40] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:54:40] 	* rocket (https://github.com/topics/rocket)
+[:] [2024-04-08 05:54:40] 	* matplotlib (https://github.com/topics/matplotlib)
+[:] [2024-04-08 05:54:40] 	* sympy (https://github.com/topics/sympy)
+[:] [2024-04-08 05:54:40] 	* rocket-simulator (https://github.com/topics/rocket-simulator)
+[:] [2024-04-08 05:54:40] 	* rocket-simulation (https://github.com/topics/rocket-simulation)
+
+[ ] [2024-04-08 05:54:42] Repository     = Pedestrian-Detection
+[:] [2024-04-08 05:54:42] Link           = https://github.com/Gill-Singh-A/Pedestrian-Detection
+[:] [2024-04-08 05:54:42] About          = A Python Program that uses OpenCV's haarcascade to Detect Pedestrians
+[:] [2024-04-08 05:54:42] Default Branch = None
+[:] [2024-04-08 05:54:42] Commits        = 0
+[:] [2024-04-08 05:54:42] Stars          = 0
+[:] [2024-04-08 05:54:42] Watchers       = 2
+[:] [2024-04-08 05:54:42] Forks          = 0
+[+] [2024-04-08 05:54:42] Languages
+[:] [2024-04-08 05:54:42] 	* 100.0% => Python
+[+] [2024-04-08 05:54:42] Topics
+[:] [2024-04-08 05:54:42] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:42] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:54:42] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:54:42] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:42] 	* object-detection (https://github.com/topics/object-detection)
+[:] [2024-04-08 05:54:42] 	* pedestrian-detection (https://github.com/topics/pedestrian-detection)
+
+[ ] [2024-04-08 05:54:45] Repository     = Eye-Detection
+[:] [2024-04-08 05:54:45] Link           = https://github.com/Gill-Singh-A/Eye-Detection
+[:] [2024-04-08 05:54:45] About          = A Python Program that uses OpenCV's haarcascade to Detect Eyes
+[:] [2024-04-08 05:54:45] Default Branch = None
+[:] [2024-04-08 05:54:45] Commits        = 0
+[:] [2024-04-08 05:54:45] Stars          = 0
+[:] [2024-04-08 05:54:45] Watchers       = 1
+[:] [2024-04-08 05:54:45] Forks          = 0
+[+] [2024-04-08 05:54:45] Languages
+[:] [2024-04-08 05:54:45] 	* 100.0% => Python
+[+] [2024-04-08 05:54:45] Topics
+[:] [2024-04-08 05:54:45] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:45] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:54:45] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:54:45] 	* face-detection (https://github.com/topics/face-detection)
+[:] [2024-04-08 05:54:45] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:45] 	* eye-detection (https://github.com/topics/eye-detection)
+
+[ ] [2024-04-08 05:54:47] Repository     = Face-Detection
+[:] [2024-04-08 05:54:47] Link           = https://github.com/Gill-Singh-A/Face-Detection
+[:] [2024-04-08 05:54:47] About          = A Python Program that uses OpenCV's haarcascade to Detect Faces
+[:] [2024-04-08 05:54:47] Default Branch = None
+[:] [2024-04-08 05:54:47] Commits        = 0
+[:] [2024-04-08 05:54:47] Stars          = 0
+[:] [2024-04-08 05:54:47] Watchers       = 2
+[:] [2024-04-08 05:54:47] Forks          = 0
+[+] [2024-04-08 05:54:47] Languages
+[:] [2024-04-08 05:54:47] 	* 100.0% => Python
+[+] [2024-04-08 05:54:47] Topics
+[:] [2024-04-08 05:54:47] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:47] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:54:47] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:54:47] 	* face-detection (https://github.com/topics/face-detection)
+[:] [2024-04-08 05:54:47] 	* python-3 (https://github.com/topics/python-3)
+
+[ ] [2024-04-08 05:54:50] Repository     = QR-Code-Reader
+[:] [2024-04-08 05:54:50] Link           = https://github.com/Gill-Singh-A/QR-Code-Reader
+[:] [2024-04-08 05:54:50] About          = A Python Program that uses OpenCV to detect and extract data from QR Codes in Images or in Live Video
+[:] [2024-04-08 05:54:50] Default Branch = None
+[:] [2024-04-08 05:54:50] Commits        = 0
+[:] [2024-04-08 05:54:50] Stars          = 1
+[:] [2024-04-08 05:54:50] Watchers       = 2
+[:] [2024-04-08 05:54:50] Forks          = 0
+[+] [2024-04-08 05:54:50] Languages
+[:] [2024-04-08 05:54:50] 	* 100.0% => Python
+[+] [2024-04-08 05:54:50] Topics
+[:] [2024-04-08 05:54:50] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:50] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:54:50] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:54:50] 	* qrcode (https://github.com/topics/qrcode)
+[:] [2024-04-08 05:54:50] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:54:50] 	* qrcode-scanner (https://github.com/topics/qrcode-scanner)
+
+[ ] [2024-04-08 05:54:52] Repository     = Barcode-Reader
+[:] [2024-04-08 05:54:52] Link           = https://github.com/Gill-Singh-A/Barcode-Reader
+[:] [2024-04-08 05:54:52] About          = A Python Program that uses OpenCV to detect and extract data from Barcodes in Images or in Live Video
+[:] [2024-04-08 05:54:52] Default Branch = None
+[:] [2024-04-08 05:54:52] Commits        = 0
+[:] [2024-04-08 05:54:52] Stars          = 0
+[:] [2024-04-08 05:54:52] Watchers       = 2
+[:] [2024-04-08 05:54:52] Forks          = 0
+[+] [2024-04-08 05:54:52] Languages
+[:] [2024-04-08 05:54:52] 	* 100.0% => Python
+[+] [2024-04-08 05:54:52] Topics
+[:] [2024-04-08 05:54:52] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:52] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:54:52] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:54:52] 	* python3 (https://github.com/topics/python3)
+
+[ ] [2024-04-08 05:54:55] Repository     = Radial-Velocity-of-Star
+[:] [2024-04-08 05:54:55] Link           = https://github.com/Gill-Singh-A/Radial-Velocity-of-Star
+[:] [2024-04-08 05:54:55] About          = A Program that approximates the number of exoplanets and their data (Mass, Radius of Revolution and Time Period of Revolution) present in a star system given the Radial Velocity of Star with noise
+[:] [2024-04-08 05:54:55] Default Branch = None
+[:] [2024-04-08 05:54:55] Commits        = 0
+[:] [2024-04-08 05:54:55] Stars          = 0
+[:] [2024-04-08 05:54:55] Watchers       = 1
+[:] [2024-04-08 05:54:55] Forks          = 0
+[+] [2024-04-08 05:54:55] Languages
+[:] [2024-04-08 05:54:55] 	* 100.0% => Python
+[+] [2024-04-08 05:54:55] Topics
+[:] [2024-04-08 05:54:55] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:54:55] 	* science (https://github.com/topics/science)
+[:] [2024-04-08 05:54:55] 	* astronomy (https://github.com/topics/astronomy)
+[:] [2024-04-08 05:54:55] 	* physics (https://github.com/topics/physics)
+[:] [2024-04-08 05:54:55] 	* numpy (https://github.com/topics/numpy)
+[:] [2024-04-08 05:54:55] 	* exoplanets (https://github.com/topics/exoplanets)
+[:] [2024-04-08 05:54:55] 	* matplotlib (https://github.com/topics/matplotlib)
+[:] [2024-04-08 05:54:55] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:54:55] 	* stars (https://github.com/topics/stars)
+[:] [2024-04-08 05:54:55] 	* fourier-transform (https://github.com/topics/fourier-transform)
+[:] [2024-04-08 05:54:55] 	* astronomical-data-analysis (https://github.com/topics/astronomical-data-analysis)
+
+[ ] [2024-04-08 05:54:57] Repository     = Git-Branching
+[:] [2024-04-08 05:54:57] Link           = https://github.com/Gill-Singh-A/Git-Branching
+[:] [2024-04-08 05:54:57] About          = Solutions of Learn Git Branching
+[:] [2024-04-08 05:54:57] Default Branch = None
+[:] [2024-04-08 05:54:57] Commits        = 0
+[:] [2024-04-08 05:54:57] Stars          = 0
+[:] [2024-04-08 05:54:57] Watchers       = 1
+[:] [2024-04-08 05:54:57] Forks          = 0
+[+] [2024-04-08 05:54:57] Topics
+[:] [2024-04-08 05:54:57] 	* git (https://github.com/topics/git)
+[:] [2024-04-08 05:54:57] 	* git-branching (https://github.com/topics/git-branching)
+
+[ ] [2024-04-08 05:55:00] Repository     = QR-Code-Generator
+[:] [2024-04-08 05:55:00] Link           = https://github.com/Gill-Singh-A/QR-Code-Generator
+[:] [2024-04-08 05:55:00] About          = A Program that generates QR Code Images from the given data
+[:] [2024-04-08 05:55:00] Default Branch = None
+[:] [2024-04-08 05:55:00] Commits        = 0
+[:] [2024-04-08 05:55:00] Stars          = 0
+[:] [2024-04-08 05:55:00] Watchers       = 1
+[:] [2024-04-08 05:55:00] Forks          = 0
+[+] [2024-04-08 05:55:00] Languages
+[:] [2024-04-08 05:55:00] 	* 100.0% => Python
+[+] [2024-04-08 05:55:00] Topics
+[:] [2024-04-08 05:55:00] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:00] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:55:00] 	* computer-vision (https://github.com/topics/computer-vision)
+[:] [2024-04-08 05:55:00] 	* qrcode (https://github.com/topics/qrcode)
+[:] [2024-04-08 05:55:00] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:55:00] 	* qrcode-generator (https://github.com/topics/qrcode-generator)
+
+[ ] [2024-04-08 05:55:02] Repository     = Hackerrank-Java-Solutions
+[:] [2024-04-08 05:55:02] Link           = https://github.com/Gill-Singh-A/Hackerrank-Java-Solutions
+[:] [2024-04-08 05:55:02] About          = Solutions to Java Problems in Hackerrank
+[:] [2024-04-08 05:55:02] Default Branch = None
+[:] [2024-04-08 05:55:02] Commits        = 0
+[:] [2024-04-08 05:55:02] Stars          = 0
+[:] [2024-04-08 05:55:02] Watchers       = 1
+[:] [2024-04-08 05:55:02] Forks          = 0
+[+] [2024-04-08 05:55:02] Languages
+[:] [2024-04-08 05:55:02] 	* 100.0% => Java
+[+] [2024-04-08 05:55:02] Topics
+[:] [2024-04-08 05:55:02] 	* java (https://github.com/topics/java)
+[:] [2024-04-08 05:55:02] 	* hackerrank (https://github.com/topics/hackerrank)
+[:] [2024-04-08 05:55:02] 	* hackerrank-solutions (https://github.com/topics/hackerrank-solutions)
+
+[ ] [2024-04-08 05:55:05] Repository     = Hackerrank-10-Days-of-Javascript
+[:] [2024-04-08 05:55:05] Link           = https://github.com/Gill-Singh-A/Hackerrank-10-Days-of-Javascript
+[:] [2024-04-08 05:55:05] About          = Solutions to 10 Days of Javascript Problems in Hackerrank
+[:] [2024-04-08 05:55:05] Default Branch = None
+[:] [2024-04-08 05:55:05] Commits        = 0
+[:] [2024-04-08 05:55:05] Stars          = 0
+[:] [2024-04-08 05:55:05] Watchers       = 1
+[:] [2024-04-08 05:55:05] Forks          = 0
+[+] [2024-04-08 05:55:05] Languages
+[:] [2024-04-08 05:55:05] 	* 83.5% => JavaScript
+[:] [2024-04-08 05:55:05] 	* 10.1% => HTML
+[:] [2024-04-08 05:55:05] 	* 6.4% => CSS
+[+] [2024-04-08 05:55:05] Topics
+[:] [2024-04-08 05:55:05] 	* javascript (https://github.com/topics/javascript)
+[:] [2024-04-08 05:55:05] 	* hackerrank (https://github.com/topics/hackerrank)
+[:] [2024-04-08 05:55:05] 	* hackerrank-solutions (https://github.com/topics/hackerrank-solutions)
+
+[ ] [2024-04-08 05:55:07] Repository     = Hackerrank-CPP-Solutions
+[:] [2024-04-08 05:55:07] Link           = https://github.com/Gill-Singh-A/Hackerrank-CPP-Solutions
+[:] [2024-04-08 05:55:07] About          = Solutions to C++ Problems in Hackerrank
+[:] [2024-04-08 05:55:07] Default Branch = None
+[:] [2024-04-08 05:55:07] Commits        = 0
+[:] [2024-04-08 05:55:07] Stars          = 0
+[:] [2024-04-08 05:55:07] Watchers       = 1
+[:] [2024-04-08 05:55:07] Forks          = 0
+[+] [2024-04-08 05:55:07] Languages
+[:] [2024-04-08 05:55:07] 	* 100.0% => C++
+[+] [2024-04-08 05:55:07] Topics
+[:] [2024-04-08 05:55:07] 	* cpp (https://github.com/topics/cpp)
+[:] [2024-04-08 05:55:07] 	* hackerrank (https://github.com/topics/hackerrank)
+[:] [2024-04-08 05:55:07] 	* hackerrank-solutions (https://github.com/topics/hackerrank-solutions)
+
+[ ] [2024-04-08 05:55:10] Repository     = Hackerrank-Security-Solutions
+[:] [2024-04-08 05:55:10] Link           = https://github.com/Gill-Singh-A/Hackerrank-Security-Solutions
+[:] [2024-04-08 05:55:10] About          = Solutions to Security Problems in Hackerrank
+[:] [2024-04-08 05:55:10] Default Branch = None
+[:] [2024-04-08 05:55:10] Commits        = 0
+[:] [2024-04-08 05:55:10] Stars          = 0
+[:] [2024-04-08 05:55:10] Watchers       = 1
+[:] [2024-04-08 05:55:10] Forks          = 0
+[+] [2024-04-08 05:55:10] Languages
+[:] [2024-04-08 05:55:10] 	* 95.6% => C
+[:] [2024-04-08 05:55:10] 	* 4.4% => Python
+[+] [2024-04-08 05:55:10] Topics
+[:] [2024-04-08 05:55:10] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:10] 	* c (https://github.com/topics/c)
+[:] [2024-04-08 05:55:10] 	* hackerrank (https://github.com/topics/hackerrank)
+[:] [2024-04-08 05:55:10] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:55:10] 	* hackerrank-solutions (https://github.com/topics/hackerrank-solutions)
+[:] [2024-04-08 05:55:10] 	* securtiy (https://github.com/topics/securtiy)
+
+[ ] [2024-04-08 05:55:12] Repository     = Hackerrank-C-Solutions
+[:] [2024-04-08 05:55:12] Link           = https://github.com/Gill-Singh-A/Hackerrank-C-Solutions
+[:] [2024-04-08 05:55:12] About          = Solutions to C Problems in Hackerrank
+[:] [2024-04-08 05:55:12] Default Branch = None
+[:] [2024-04-08 05:55:12] Commits        = 0
+[:] [2024-04-08 05:55:12] Stars          = 0
+[:] [2024-04-08 05:55:12] Watchers       = 1
+[:] [2024-04-08 05:55:12] Forks          = 0
+[+] [2024-04-08 05:55:12] Languages
+[:] [2024-04-08 05:55:12] 	* 100.0% => C
+[+] [2024-04-08 05:55:12] Topics
+[:] [2024-04-08 05:55:12] 	* c (https://github.com/topics/c)
+[:] [2024-04-08 05:55:12] 	* hackerrank (https://github.com/topics/hackerrank)
+[:] [2024-04-08 05:55:12] 	* hackerrank-solutions (https://github.com/topics/hackerrank-solutions)
+
+[ ] [2024-04-08 05:55:15] Repository     = DHCP-Listener
+[:] [2024-04-08 05:55:15] Link           = https://github.com/Gill-Singh-A/DHCP-Listener
+[:] [2024-04-08 05:55:15] About          = A Python Program that listens for DHCP Packets when a device connects to the same network on which our device is connected
+[:] [2024-04-08 05:55:15] Default Branch = None
+[:] [2024-04-08 05:55:15] Commits        = 0
+[:] [2024-04-08 05:55:15] Stars          = 0
+[:] [2024-04-08 05:55:15] Watchers       = 1
+[:] [2024-04-08 05:55:15] Forks          = 0
+[+] [2024-04-08 05:55:15] Languages
+[:] [2024-04-08 05:55:15] 	* 100.0% => Python
+[+] [2024-04-08 05:55:15] Topics
+[:] [2024-04-08 05:55:15] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:15] 	* networking (https://github.com/topics/networking)
+[:] [2024-04-08 05:55:15] 	* dhcp (https://github.com/topics/dhcp)
+[:] [2024-04-08 05:55:15] 	* network (https://github.com/topics/network)
+[:] [2024-04-08 05:55:15] 	* python-3 (https://github.com/topics/python-3)
+[:] [2024-04-08 05:55:15] 	* scapy (https://github.com/topics/scapy)
+[:] [2024-04-08 05:55:15] 	* sniffing (https://github.com/topics/sniffing)
+[:] [2024-04-08 05:55:15] 	* network-protocols (https://github.com/topics/network-protocols)
+[:] [2024-04-08 05:55:15] 	* dhcp-listener (https://github.com/topics/dhcp-listener)
+
+[ ] [2024-04-08 05:55:17] Repository     = Network-Scanner
+[:] [2024-04-08 05:55:17] Link           = https://github.com/Gill-Singh-A/Network-Scanner
+[:] [2024-04-08 05:55:17] About          = A Python Program that scans the Network giving a list of IP Addresses and MAC Addresses of the devices connected to that Network.
+[:] [2024-04-08 05:55:17] Default Branch = None
+[:] [2024-04-08 05:55:17] Commits        = 0
+[:] [2024-04-08 05:55:17] Stars          = 0
+[:] [2024-04-08 05:55:17] Watchers       = 1
+[:] [2024-04-08 05:55:17] Forks          = 0
+[+] [2024-04-08 05:55:17] Languages
+[:] [2024-04-08 05:55:17] 	* 100.0% => Python
+[+] [2024-04-08 05:55:17] Topics
+[:] [2024-04-08 05:55:17] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:17] 	* networking (https://github.com/topics/networking)
+[:] [2024-04-08 05:55:17] 	* lan (https://github.com/topics/lan)
+[:] [2024-04-08 05:55:17] 	* network (https://github.com/topics/network)
+[:] [2024-04-08 05:55:17] 	* scanner (https://github.com/topics/scanner)
+[:] [2024-04-08 05:55:17] 	* wifi (https://github.com/topics/wifi)
+[:] [2024-04-08 05:55:17] 	* scapy (https://github.com/topics/scapy)
+[:] [2024-04-08 05:55:17] 	* network-protocols (https://github.com/topics/network-protocols)
+[:] [2024-04-08 05:55:17] 	* network-scanner (https://github.com/topics/network-scanner)
+
+[ ] [2024-04-08 05:55:20] Repository     = OverTheWire-Bandit
+[:] [2024-04-08 05:55:20] Link           = https://github.com/Gill-Singh-A/OverTheWire-Bandit
+[:] [2024-04-08 05:55:20] About          = Writeups for Levels of OverTheWire Bandit
+[:] [2024-04-08 05:55:20] Default Branch = None
+[:] [2024-04-08 05:55:20] Commits        = 0
+[:] [2024-04-08 05:55:20] Stars          = 0
+[:] [2024-04-08 05:55:20] Watchers       = 1
+[:] [2024-04-08 05:55:20] Forks          = 0
+[+] [2024-04-08 05:55:20] Topics
+[:] [2024-04-08 05:55:20] 	* linux (https://github.com/topics/linux)
+[:] [2024-04-08 05:55:20] 	* bash (https://github.com/topics/bash)
+[:] [2024-04-08 05:55:20] 	* cli (https://github.com/topics/cli)
+[:] [2024-04-08 05:55:20] 	* ssh (https://github.com/topics/ssh)
+[:] [2024-04-08 05:55:20] 	* terminal (https://github.com/topics/terminal)
+[:] [2024-04-08 05:55:20] 	* command-line (https://github.com/topics/command-line)
+[:] [2024-04-08 05:55:20] 	* bandit (https://github.com/topics/bandit)
+[:] [2024-04-08 05:55:20] 	* overthewire (https://github.com/topics/overthewire)
+[:] [2024-04-08 05:55:20] 	* overthewire-solution (https://github.com/topics/overthewire-solution)
+[:] [2024-04-08 05:55:20] 	* overthewire-bandit (https://github.com/topics/overthewire-bandit)
+
+[ ] [2024-04-08 05:55:22] Repository     = Frame-Extractor
+[:] [2024-04-08 05:55:22] Link           = https://github.com/Gill-Singh-A/Frame-Extractor
+[:] [2024-04-08 05:55:22] About          = Extracts each frame of the specified Video File
+[:] [2024-04-08 05:55:22] Default Branch = None
+[:] [2024-04-08 05:55:22] Commits        = 0
+[:] [2024-04-08 05:55:22] Stars          = 0
+[:] [2024-04-08 05:55:22] Watchers       = 1
+[:] [2024-04-08 05:55:22] Forks          = 0
+[+] [2024-04-08 05:55:22] Languages
+[:] [2024-04-08 05:55:22] 	* 100.0% => Python
+[+] [2024-04-08 05:55:22] Topics
+[:] [2024-04-08 05:55:22] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:22] 	* opencv (https://github.com/topics/opencv)
+[:] [2024-04-08 05:55:22] 	* image (https://github.com/topics/image)
+[:] [2024-04-08 05:55:22] 	* video (https://github.com/topics/video)
+[:] [2024-04-08 05:55:22] 	* frame (https://github.com/topics/frame)
+[:] [2024-04-08 05:55:22] 	* python-3 (https://github.com/topics/python-3)
+
+[ ] [2024-04-08 05:55:26] Repository     = Image-Converter
+[:] [2024-04-08 05:55:26] Link           = https://github.com/Gill-Singh-A/Image-Converter
+[:] [2024-04-08 05:55:26] About          = Converters the Image of any other format in JPG Format
+[:] [2024-04-08 05:55:26] Default Branch = None
+[:] [2024-04-08 05:55:26] Commits        = 0
+[:] [2024-04-08 05:55:26] Stars          = 0
+[:] [2024-04-08 05:55:26] Watchers       = 1
+[:] [2024-04-08 05:55:26] Forks          = 0
+[+] [2024-04-08 05:55:26] Languages
+[:] [2024-04-08 05:55:26] 	* 100.0% => Python
+[+] [2024-04-08 05:55:26] Topics
+[:] [2024-04-08 05:55:26] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:26] 	* converter (https://github.com/topics/converter)
+[:] [2024-04-08 05:55:26] 	* image (https://github.com/topics/image)
+[:] [2024-04-08 05:55:26] 	* jpg (https://github.com/topics/jpg)
+[:] [2024-04-08 05:55:26] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:55:26] 	* image-converter (https://github.com/topics/image-converter)
+
+[ ] [2024-04-08 05:55:29] Repository     = Morse-Code
+[:] [2024-04-08 05:55:29] Link           = https://github.com/Gill-Singh-A/Morse-Code
+[:] [2024-04-08 05:55:29] About          = Encodes or Decodes Morse code
+[:] [2024-04-08 05:55:29] Default Branch = None
+[:] [2024-04-08 05:55:29] Commits        = 0
+[:] [2024-04-08 05:55:29] Stars          = 0
+[:] [2024-04-08 05:55:29] Watchers       = 1
+[:] [2024-04-08 05:55:29] Forks          = 0
+[+] [2024-04-08 05:55:29] Languages
+[:] [2024-04-08 05:55:29] 	* 100.0% => Python
+[+] [2024-04-08 05:55:29] Topics
+[:] [2024-04-08 05:55:29] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:29] 	* encoding (https://github.com/topics/encoding)
+[:] [2024-04-08 05:55:29] 	* decoding (https://github.com/topics/decoding)
+[:] [2024-04-08 05:55:29] 	* morse-code (https://github.com/topics/morse-code)
+[:] [2024-04-08 05:55:29] 	* morse (https://github.com/topics/morse)
+[:] [2024-04-08 05:55:29] 	* python-3 (https://github.com/topics/python-3)
+
+[ ] [2024-04-08 05:55:31] Repository     = Python-Downloader
+[:] [2024-04-08 05:55:31] Link           = https://github.com/Gill-Singh-A/Python-Downloader
+[:] [2024-04-08 05:55:31] About          = Downloads specified file present on the Web.
+[:] [2024-04-08 05:55:31] Default Branch = None
+[:] [2024-04-08 05:55:31] Commits        = 0
+[:] [2024-04-08 05:55:31] Stars          = 0
+[:] [2024-04-08 05:55:31] Watchers       = 1
+[:] [2024-04-08 05:55:31] Forks          = 0
+[+] [2024-04-08 05:55:31] Languages
+[:] [2024-04-08 05:55:31] 	* 100.0% => Python
+[+] [2024-04-08 05:55:31] Topics
+[:] [2024-04-08 05:55:31] 	* python (https://github.com/topics/python)
+[:] [2024-04-08 05:55:31] 	* python3 (https://github.com/topics/python3)
+[:] [2024-04-08 05:55:31] 	* requests (https://github.com/topics/requests)
+[:] [2024-04-08 05:55:31] 	* file-handling (https://github.com/topics/file-handling)
+
+[ ] [2024-04-08 05:55:34] Repository     = Google-CTF-Beginners-Quest
+[:] [2024-04-08 05:55:34] Link           = https://github.com/Gill-Singh-A/Google-CTF-Beginners-Quest
+[:] [2024-04-08 05:55:34] About          = Writeups for Google CTF Beginners Quest
+[:] [2024-04-08 05:55:34] Default Branch = None
+[:] [2024-04-08 05:55:34] Commits        = 0
+[:] [2024-04-08 05:55:34] Stars          = 0
+[:] [2024-04-08 05:55:34] Watchers       = 1
+[:] [2024-04-08 05:55:34] Forks          = 0
+[+] [2024-04-08 05:55:34] Languages
+[:] [2024-04-08 05:55:34] 	* 59.7% => C
+[:] [2024-04-08 05:55:34] 	* 23.8% => JavaScript
+[:] [2024-04-08 05:55:34] 	* 16.5% => Python
+[+] [2024-04-08 05:55:34] Topics
+[:] [2024-04-08 05:55:34] 	* ctf (https://github.com/topics/ctf)
+[:] [2024-04-08 05:55:34] 	* google-ctf (https://github.com/topics/google-ctf)
+
+[+] [2024-04-08 05:55:34] Gathered Repository Data
+[:] [2024-04-08 05:55:34] Total Repositories = 64
+[+] [2024-04-08 05:55:34] Starred Repositories
+[:] [2024-04-08 05:55:34] 	* /jakejarvis/awesome-shodan-queries (https://github.com//jakejarvis/awesome-shodan-queries)
+[:] [2024-04-08 05:55:34] 	* /edoardottt/awesome-hacker-search-engines (https://github.com//edoardottt/awesome-hacker-search-engines)
+
+[+] [2024-04-08 05:55:34] Major Language of Repositories
+[:] [2024-04-08 05:55:34] 	* Python: 44 (78.57%)
+[:] [2024-04-08 05:55:34] 	* C: 4 (7.14%)
+[:] [2024-04-08 05:55:34] 	* CMake: 3 (5.36%)
+[:] [2024-04-08 05:55:34] 	* C++: 2 (3.57%)
+[:] [2024-04-08 05:55:34] 	* JavaScript: 2 (3.57%)
+[:] [2024-04-08 05:55:34] 	* Java: 1 (1.79%)
+[+] [2024-04-08 05:55:34] Language used by User
+[:] [2024-04-08 05:55:34] 	* Python: 51 (71.83%)
+[:] [2024-04-08 05:55:34] 	* JavaScript: 3 (4.23%)
+[:] [2024-04-08 05:55:34] 	* C++: 4 (5.63%)
+[:] [2024-04-08 05:55:34] 	* CMake: 5 (7.04%)
+[:] [2024-04-08 05:55:34] 	* C: 4 (5.63%)
+[:] [2024-04-08 05:55:34] 	* Shell: 1 (1.41%)
+[:] [2024-04-08 05:55:34] 	* Java: 1 (1.41%)
+[:] [2024-04-08 05:55:34] 	* HTML: 1 (1.41%)
+[:] [2024-04-08 05:55:34] 	* CSS: 1 (1.41%)
+
