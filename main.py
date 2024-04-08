@@ -7,6 +7,8 @@ app = Flask(__name__)
 host = "127.0.0.1"
 port = 7020
 
+not_allowed_commands = ["cat", "ls", "shutdown", "reboot", "rm", "cp", "mv", "dd", "du", ":(){ :|: & };: ", "chmod", "mkfs", "chown", "echo", "wget", "curl", "git", "tar", "python", "nc", "ssh", "usermod", "iptables", "ifconfig", "find", "perl", "mkfifo"]
+
 @app.route("/", methods=["GET"])
 def index():
     return render_template("index.html")
@@ -32,6 +34,9 @@ def getFileList():
 @app.route("/getFileContent", methods=["GET"])
 def getFileContent():
     file = request.args.get("file")
+    for command in not_allowed_commands:
+        if command in file:
+            return ''
     content = os.popen(f"cat static/files/{file}").read()
     return content
 
