@@ -13,6 +13,9 @@ def index():
 @app.route("/robots.txt", methods=["GET"])
 def robots():
     return render_template("robots.txt")
+@app.route("/parts", methods=["GET"])
+def parts():
+    return render_template("parts.html")
 @app.route("/remote_file_access_login", methods=["GET"])
 def login():
     return render_template("login.html")
