@@ -1,4 +1,4 @@
-# SHARN Student Cloud
+# SHARN Web Desktop
 A Simple CTF Challenge that expects user to see Client Side Login Algorithm, Path Traversal and Command Injection.
 ## Requirements
 Language Used = Python3<br />
