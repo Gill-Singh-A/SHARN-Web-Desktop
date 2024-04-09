@@ -6,8 +6,9 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 host = "127.0.0.1"
 port = 7020
+debug = False
 
-not_allowed_commands = ["cat", "ls", "shutdown", "reboot", "rm", "cp", "mv", "dd", "du", ":(){ :|: & };: ", "chmod", "mkfs", "chown", "echo", "wget", "curl", "git", "tar", "python", "nc", "ssh", "usermod", "iptables", "ifconfig", "find", "perl", "mkfifo"]
+not_allowed_commands = ["cat", "ls", "shutdown", "reboot", "rm", "cp", "mv", "dd", "du", ":(){ :|: & };: ", "chmod", "mkfs", "chown", "echo", "wget", "curl", "git", "tar", "python", "nc", "ssh", "usermod", "iptables", "ifconfig", "find", "perl", "mkfifo", "sh", "exec", "apt", "sudo", "ftp", "sftp", "touch", "socat", "telnet"]
 
 @app.route("/", methods=["GET"])
 def index():
@@ -41,4 +42,4 @@ def getFileContent():
     return content
 
 if __name__ == "__main__":
-    app.run(host=host, port=port, debug=True)
+    app.run(host=host, port=port, debug=debug)
