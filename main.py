@@ -8,7 +8,7 @@ host = "127.0.0.1"
 port = 7020
 debug = True
 
-not_allowed_commands = ["cat", "ls", "shutdown", "reboot", "rm", "cp", "mv", "dd", "du", ":(){ :|: & };: ", "chmod", "mkfs", "chown", "echo", "wget", "curl", "git", "tar", "python", "nc", "ssh", "usermod", "iptables", "ifconfig", "find", "perl", "mkfifo", "sh", "exec", "apt", "sudo", "ftp", "sftp", "touch", "socat", "telnet"]
+not_allowed_commands = ["cat", "ls", "shutdown", "reboot", "rm", "cp", "mv", "dd", "du", ":(){ :|: & };: ", "chmod", "mkfs", "chown", "echo", "wget", "curl", "git", "tar", "python", "nc", "ssh", "usermod", "iptables", "ifconfig", "find", "perl", "mkfifo", "sh", "exec", "apt", "sudo", "ftp", "sftp", "touch", "socat", "telnet", "py", "html", "css", "js"]
 
 @app.route("/", methods=["GET"])
 def index():
